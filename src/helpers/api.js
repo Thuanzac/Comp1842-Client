@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const backEnd = 'http://localhost:3000/vocab/';
+const backEnd = 'https://comp1842-server-713r.onrender.com/vocab/';
 
 export const ViewAllWords = async () => {
   try {
